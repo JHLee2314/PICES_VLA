@@ -1,0 +1,17 @@
+# Local model weights, environments, caches and evaluation artifacts.
+/assets/
+/environments/
+/cache/
+/runs/
+/manifests/
+.cleanup_work/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+*.safetensors
+*.pt
+*.pth
+*.ckpt
